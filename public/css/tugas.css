@@ -1,0 +1,62 @@
+h2{
+	color: red;
+	text-align: center;
+	background-color: cyan;
+}
+
+.p1{
+	color: white;
+}
+.p2{
+	font-family: mileadilan;
+	font-size: 32px;
+	color: white;
+	font-weight: bolder;
+	-webkit-text-stroke:1px red;
+}
+
+.p3{
+	font-family: godofwar;
+	font-size: 16px;
+	color: white;
+	font-weight: bolder;
+	-webkit-text-stroke:0.5px red;
+}
+
+.f1{
+	color: black;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	height: 50px;
+	width: 100px;
+	background: yellow;
+}
+
+.l1{
+	position: -webkit-sticky; /* Safari */
+	position: sticky;
+	top: 0;
+	background-color: yellow;
+	border: 2px solid #4CAF50;
+}
+
+.link{
+	font-size: 30px;
+}
+
+
+.link:hover{
+	color: red;
+}
+
+
+.link:link{
+	color: yellow;
+	background-color: white;
+}
+
+body{
+	background: url(bunga2.jfif);
+	background-color: softpurple;
+}

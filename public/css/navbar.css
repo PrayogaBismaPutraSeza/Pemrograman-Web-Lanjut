@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    padding: 10px;
+    color: blanchedalmond;
+}
+
+.logo{
+    font-family: mileadilan;
+    letter-spacing: 2px;
+}
+
+.l2{
+    font-family: miledilan;
+    display: flex;
+    list-style: none;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.l3{
+    font-family: miledilan;
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    font-family: miledilan;
+    color: whitesmoke;
+}

@@ -1,0 +1,48 @@
+body{
+	background: url(bunga2.jfif);
+}
+h2{
+	color: red;
+	text-align: center;
+	background-color: cyan;
+}
+
+.link{
+	font-size: 30px;
+}
+
+.link:hover{
+	color: red;
+}
+
+.link:link{
+	color: yellow;
+	background-color: white;
+}
+
+.p1{
+	font-family: godofwar;
+	font-size: 16px;
+	color: white;
+	font-weight: bolder;
+	-webkit-text-stroke:0.5px red;
+}
+
+.f1{
+	color: black;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	height: 50px;
+	width: 100px;
+	background: yellow;
+}
+
+h1{
+	font-family: mileadilan;
+	font-size: 32px;
+	color: white;
+	font-weight: bolder;
+	-webkit-text-stroke:1px red;
+}
+
